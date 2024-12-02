@@ -42,7 +42,7 @@
     "@typescript-eslint/parser": "^5.10.1",
     "dotenv": "^14.3.2",
     "eslint": "^8.7.0",
-    "ts-node": "^10.4.0",
+    "ts-node": "^10.7.0",
     "typescript": "^4.5.5"
   },
   "optionalDependencies": {
